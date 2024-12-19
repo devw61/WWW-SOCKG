@@ -1,0 +1,2 @@
+data/sockg_2024-12-18.nt.gz filter=lfs diff=lfs merge=lfs -text
+data/sockg_2024-12-18.ttl.gz filter=lfs diff=lfs merge=lfs -text
